@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    padding: 16px;
+}
+.container div h2{
+    text-align: center;
+}
+#about-me{
+    margin-top: 5%;
+}
+.intro{
+    margin: -16px;
+    background-color: rgb(1, 18, 13);
+    color: white;
+    text-align: center;
+    padding-top: 27px;
+    padding-bottom: 5px;
+}
+.intro h1{
+    margin: 20px auto;
+}
+#profile_pic{
+    height: 300px;
+    width: 300px;
+    border-radius: 30%;
+}
+.social-links img{
+    height: 30px;
+    width: 30px;
+    
+}
+.social-links a{
+    margin: 20px 10px;
+}
